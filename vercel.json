@@ -1,9 +1,9 @@
 {
   "redirects": [
-    { "source": "/", "destination": "/index", "permanent": true },
-    { "source": "/about", "destination": "/about", "permanent": true },
-    { "source": "/research", "destination": "/research", "permanent": true },
-    { "source": "/moreprojects", "destination": "/moreprojects", "permanent": true },
-    { "source": "/contact", "destination": "/contact", "permanent": true }
+    { "source": "/index", "destination": "/index.html", "permanent": true },
+    { "source": "/about", "destination": "/about.html", "permanent": true },
+    { "source": "/research", "destination": "/research.html", "permanent": true },
+    { "source": "/moreprojects", "destination": "/moreprojects.html", "permanent": true },
+    { "source": "/contact", "destination": "/contact.html", "permanent": true }
   ]
 }
