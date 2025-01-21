@@ -273,7 +273,6 @@ footer {
 }
 
 /* Research Page - Main Section */
-
 #research-page {
   background: linear-gradient(to bottom, #2d403a 15%, #eae5dc 0%);
   padding: 50px 10%;
@@ -347,6 +346,7 @@ footer {
   object-fit: cover;
   box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
 
 /* Contact Page - Main Section */
 #contact-page {
