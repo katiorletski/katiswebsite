@@ -2,7 +2,7 @@
     "redirects": [
       { "source": "/about", "destination": "/about.html", "permanent": true },
       { "source": "/research", "destination": "/research.html", "permanent": true },
-      { "source": "/projects", "destination": "/projects.html", "permanent": true },
+      { "source": "/moreprojects", "destination": "/moreprojects.html", "permanent": true },
       { "source": "/contact", "destination": "/contact.html", "permanent": true }
     ]
   }
