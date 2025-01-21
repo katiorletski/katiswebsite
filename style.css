@@ -273,8 +273,9 @@ footer {
 }
 
 /* Research Page - Main Section */
+
 #research-page {
-  background: linear-gradient(to bottom, #2d403a 35%, #eae5dc 35%);
+  background: linear-gradient(to bottom, #2d403a 15%, #eae5dc 0%);
   padding: 50px 10%;
   display: flex;
   flex-direction: column;
@@ -322,6 +323,14 @@ footer {
   margin-bottom: 20px;
 
   padding: 20px;
+  border-radius: 5px;
+}
+
+.research-content ul {
+  font-size: 1.2rem;
+  line-height: 1.8;
+  margin-bottom: 20px;
+  padding: 40px;
   border-radius: 5px;
 }
 
