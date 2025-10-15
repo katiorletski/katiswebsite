@@ -2,8 +2,10 @@
   "redirects": [
     { "source": "/index", "destination": "/index.html", "permanent": true },
     { "source": "/about", "destination": "/about.html", "permanent": true },
+    { "source": "/teaching", "destination": "/teaching.html", "permanent": true },
     { "source": "/research", "destination": "/research.html", "permanent": true },
     { "source": "/moreprojects", "destination": "/moreprojects.html", "permanent": true },
     { "source": "/contact", "destination": "/contact.html", "permanent": true }
   ]
 }
+
